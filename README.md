@@ -1,7 +1,7 @@
-# assist
+# Assist
 Assists you in Bug Hutnign and Pen-testing :)
 
-Usage:
+# Usage
 
 -Clone this repository
 
@@ -9,7 +9,7 @@ Usage:
 
 -./assist.sh exmple.com
 
-DEPENDENCIES:
+# Dependencies
 
 iceweasel or xdg-utils (apt-get install xdg-utils)
 
