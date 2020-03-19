@@ -57,5 +57,3 @@ $BROWSER https://github.com/search?q=$domain
 $BROWSER https://github.com/search?q=$domain+filename:.npmrc_auth
 $BROWSER https://github.com/search?q=$domain+filename:.dockercfg+auth
 $BROWSER https://github.com/search?q=$domain+extension:pem+private
-
-
