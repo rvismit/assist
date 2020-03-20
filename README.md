@@ -1,5 +1,5 @@
 # Assist
-Assists you in Bug Hutnign and Pen-testing :)
+Assists you in Bug Hunting and Pen-testing :)
 
 # Usage
 
