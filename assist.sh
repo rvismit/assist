@@ -28,8 +28,8 @@ host $domain
 
 #Sub-Domain
 
-$BROWSER https://www.google.ca/search?q=site:*.$domain
-$BROWSER https://www.google.ca/search?q=site:*.*.$domain
+$BROWSER https://www.google.com/search?q=site:*.$domain
+$BROWSER https://www.google.com/search?q=site:*.*.$domain
 $BROWSER https://www.baidu.com/s?wd=$domain
 $BROWSER https://www.bing.com/search?q=$domain&count=50&first=xx
 $BROWSER https://duckduckgo.com/?q=$domain&ia=web
