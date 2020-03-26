@@ -48,6 +48,9 @@ $BROWSER https://www.google.com/search?q=filetype%3Apem+intext%3Aprivate+site%3A
 $BROWSER https://www.google.com/search?q=site:$domain+ext:sql+|+ext:dbf+|+ext:mdb
 $BROWSER https://www.google.com/search?q=site:$domain+ext:bkf+|+ext:bkp+|+ext:bak+|+ext:old+|+ext:backup
 $BROWSER https://www.google.com/search?q=site:pastebin.com+$domain
+$BROWSER https://www.google.com/search?q=site:$domain+inurl:dev
+$BROWSER https://www.google.com/search?q=site:$domain+inurl:auth
+$BROWSER https://www.google.com/search?q=site:$domain+-www
 
 sleep $DELAY
 
